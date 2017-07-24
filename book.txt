@@ -1,5 +1,6 @@
 Chapter 1
 
-Primul meu continut in GIT...
 
-Sky is blue, sun is sunshine
+
+Sky is blue
+>>>>>>> Alternative-storyline
